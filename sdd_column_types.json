@@ -1,0 +1,61 @@
+{
+    "all": [
+        "archsn",
+        "archschn",
+        "xmas",
+        "version",
+        "pupilwt",
+        "region",
+        "imd_quin",
+        "age",
+        "sex"
+    ],
+    "measures": [
+        "age",
+        "sex",
+        "ethnic",
+        "ethnicgpr",
+        "fas",
+        "newfas",
+        "sddfas",
+        "fasbands",
+        "syear",
+        "cgnow",
+        "cgstat",
+        "cgireg"
+    ],
+    "continuous": [
+        "cg7mon",
+        "cg7tue",
+        "cg7wed",
+        "cg7thu",
+        "cg7fri",
+        "cg7sat",
+        "cg7sun",
+        "cgbuyn",
+        "al7day"
+    ],
+    "discrete": [
+        "age",
+        "sex",
+        "ethnic",
+        "ethnicgpr",
+        "fas",
+        "newfas",
+        "sddfas",
+        "fasbands",
+        "syear",
+        "cgnow",
+        "cgstat",
+        "cgireg",
+        "cgagen",
+        "cggupadn",
+        "cggupfan",
+        "cggupnin",
+        "cggupecg",
+        "cggupgpn",
+        "cgguphen",
+        "cggupstn",
+        "cggupnon"
+    ]
+}
