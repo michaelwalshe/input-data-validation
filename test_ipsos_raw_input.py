@@ -1,18 +1,4 @@
 """Data tests for SDD raw input from IPSOS
-
-These are pytest tests for a raw .SAV SPSS file, that check values based on
-metadata saved in \\ic\ic_dme_dfs\QME_PROD\LIFE\LIFE_SDD\Publication\RAP\Metadata\Latest
-To test a different .sav file or use different metadata, change the command line
-arguments --sdd_file and --sdd_metadata.
-
-These tests are written based on the 2018 SAV input file, using metadata from that
-file. If there are substanstive changes to the format (for example responses are no
-longer integer codes) then these tests may have to be rewritten.
-
-For testing a new iteration of SDD, run the file run_import_validation with a new
-sdd_file and sdd_metadata location (initally metadata will be copied from 2018).
-Then iteratively update the metadata or request new data from IPSOS as issues are
-found and either corrected, or the metadata is updated.
 """
 
 import json
